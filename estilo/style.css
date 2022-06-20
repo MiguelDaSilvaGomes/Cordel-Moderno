@@ -69,8 +69,8 @@ section.imagem > p {
     text-shadow: 1px 1px 0px black;
 }
 section#img1{
-   background-image: url(../imagens/background001.jpg);
-   background-position: right center;
+   background-image: url(../imagens/Cordel2.jpg);
+   background-position: center center;
    background-size: cover;
 }
 section#img2{
